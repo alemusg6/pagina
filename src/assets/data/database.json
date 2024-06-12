@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tocar guitarra",
+    "fotoUrl": "https://blog.musicopolix.com/wp-content/webp-express/webp-images/uploads/2020/03/arpegios-guitarra-1400x787-2.jpg.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "Comer pizza de Churrazco",
+    "fotoUrl": "https://www.laespanolaaceites.com/wp-content/uploads/2019/06/pizza-con-chorizo-jamon-y-queso-1080x671.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Leer libros",
+    "fotoUrl": "https://s1.elespanol.com/2016/02/08/elandroidelibre/el_androide_libre_100752149_183444675_1706x960.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Jugar futbol",
+    "fotoUrl": "https://img.freepik.com/foto-gratis/vista-jugador-futbol-masculino-pelota-campo_23-2150995637.jpg?w=1060&t=st=1718121624~exp=1718122224~hmac=96a6851074b29e651fe6f9644201bbc8cfdd5e72676f67a5250ee00dbca9f7a5"
+  },
+  {
+    "id": 5,
+    "nombre": "Refrigeración y A/C",
+    "fotoUrl": "https://iki-cac.org/sites/default/files/styles/principal/public/content/images/adobestock_241534624.jpeg?h=2992ba0a&itok=TmOqT66l"
+  },
+  {
+    "id": 6,
+    "nombre": "Iglesia",
+    "fotoUrl": "https://es.la-croix.com/images/4000/evangelio-del-domingo-3-de-diciembre-de-2023.jpeg"
+  }
+]
